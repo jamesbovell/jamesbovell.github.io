@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Bovell / Portfolio"
+title                    : "James Bovell"
 title_separator          : "-"
 name                     : &name "James Bovell"
 description              : &description "personal description"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jamesbovell"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/james-bovell/"
+  linkedin         : "james-bovell"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
