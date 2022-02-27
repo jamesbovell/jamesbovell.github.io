@@ -26,6 +26,7 @@ Below showcases the feature to change your background, gameplay, the win screen,
 <br/><img src='/images/tictactoe4.png'>
 
 <br/><img src='/images/tictactoe5.png'>
+
 Code/Demo/Further Information
 ======
 
